@@ -13,4 +13,4 @@
   - flattened_image.txt : là các file hình ảnh của ký tự đưởng biểu diễn dưới dạng ma trận
   
   
-![alt text](https://raw.githubusercontent.com/hangockhue/nhandien-bienso/master/image/Capture.png
+![alt text](https://raw.githubusercontent.com/hangockhue/nhandien-bienso/master/image/Capture.png)
