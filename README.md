@@ -16,4 +16,9 @@
   #### - flattened_image.txt : là các file hình ảnh của ký tự đưởng biểu diễn dưới dạng ma trận
   
   ![alt_text](/image/Capture2.PNG)
+  
+  Mỗi hình ảnh ký tự đó có kích thước là 30x20 pixel . Đây là hình của một ký tự sau khi được 
+  chuyển từ ma trận sang hình ảnh
+  
+  ![alt_text](/image/Capture3.PNG)
 
