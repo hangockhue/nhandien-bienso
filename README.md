@@ -1,2 +1,1 @@
-# nhandien-bienso
-Nhận diện biển số bằng OpenCV
+# Nhận diện biển số bằng OpenCV
