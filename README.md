@@ -13,3 +13,4 @@
   - flattened_image.txt : là các file hình ảnh của ký tự đưởng biểu diễn dưới dạng ma trận
   
   
+![GitHub Logo](/image/Capture.png)
