@@ -23,3 +23,5 @@
   ![alt_text](/image/Capture3.PNG)
 
 ## Quá trình xử lý của chương trình 
+
+  ![alt_text](/image/step.png)
