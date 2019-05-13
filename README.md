@@ -13,4 +13,4 @@
   - flattened_image.txt : là các file hình ảnh của ký tự đưởng biểu diễn dưới dạng ma trận
   
   
-![alt text](/image/Capture.png)
+![alt text](/image/Capture.PNG)
