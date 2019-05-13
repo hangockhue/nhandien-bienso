@@ -15,5 +15,5 @@
   
   #### - flattened_image.txt : là các file hình ảnh của ký tự đưởng biểu diễn dưới dạng ma trận
   
-  ![alt_text](/image/Capture1.PNG)
+  ![alt_text](/image/Capture2.PNG)
 
