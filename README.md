@@ -9,8 +9,11 @@
   
 ## Dữ liệu dùng để trainning:
   ### Dữ liệu dùng để trainning bao gồm 2 file:
-  - classfication.txt : là file lable với các ký tự biểu diễn dướng dạng mã ASCI
-  - flattened_image.txt : là các file hình ảnh của ký tự đưởng biểu diễn dưới dạng ma trận
+  #### - classfication.txt : là file lable với các ký tự biểu diễn dướng dạng mã ASCI
   
+  ![alt text](/image/Capture.PNG)
   
-![alt text](/image/Capture.PNG)
+  #### - flattened_image.txt : là các file hình ảnh của ký tự đưởng biểu diễn dưới dạng ma trận
+  
+  ![alt_text](/image/Capture1.PNG)
+
